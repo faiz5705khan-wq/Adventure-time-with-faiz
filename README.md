@@ -2,7 +2,7 @@
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](https://opensource.org/licenses/proprietary)
 
-**Starlight Gambit** is a fast-paced, high-stakes 2D platformer built with Python and Pygame.
+**ADVENTURE TIME WITH FAIZ** is a fast-paced, high-stakes 2D platformer built with Python and Pygame.
 
 ## ⚠️ Intellectual Property Notice
 
