@@ -1,4 +1,4 @@
-# Starlight Gambit
+# ADVENTURE TIME WITH FAIZ
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](https://opensource.org/licenses/proprietary)
 
@@ -21,7 +21,7 @@ This software, including all source code, assets, artwork, music, and design doc
 ---
 
 ## About the Game
-Starlight Gambit is a platformer set in a fractured celestial realm.
+Adventure time with faiz is a platformer set in a fractured celestial realm.
 - **Engine:** Pygame
 - **Core Mechanics:** Momentum-based movement, Gravity manipulation, Risk-Reward "Gambit" system.
 
